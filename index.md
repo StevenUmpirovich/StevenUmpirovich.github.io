@@ -3,6 +3,10 @@
 
 I am a computer science major at CSUF and I plan on graduating in 2029. 
 
+## Computer Science Projects
+
+My Github page is https://github.com/StevenUmpirovich
+
 ## Favorite CSPC 120L Labs
 
 * Lab 6 Part 2
